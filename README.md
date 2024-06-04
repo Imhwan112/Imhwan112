@@ -9,12 +9,13 @@
 ### 🙇 안녕하세요, Back-End Developer로 성장해나가고 있는 임태환입니다!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imhwan112&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imhwan112&layout=compact)
 
 
 <!-- Body -->
 
 ### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
+**🧑‍💻 Languages and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
