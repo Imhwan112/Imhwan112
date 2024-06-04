@@ -8,6 +8,9 @@
 
 ### 🙇 안녕하세요, Back-End Developer로 성장해나가고 있는 임태환입니다!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imhwan112&show_icons=true&theme=radical)
+
+
 <!-- Body -->
 
 ### 🦾 Skills
