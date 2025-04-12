@@ -5,7 +5,7 @@
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Keep%20Coding%20Consistently!&fontAlign=40&fontAlignY=40&fontSize=35&color=gradient)
 
 
-### 🙇 안녕하세요, Back-End Developer로 성장해나가고 있는 임태환입니다!
+### 🙇 안녕하세요, 웹 개발자 임태환입니다!
 
 ## 📫 Contact 📫
 <a href="https://velog.io/@lth0112/posts">
